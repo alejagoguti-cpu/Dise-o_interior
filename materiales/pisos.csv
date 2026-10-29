@@ -1,0 +1,10 @@
+local,marca,fabricante,nombre,referencia,formato_cm,color,acabado,trafico,url_ficha,estado
+1,Decorceramica,Klipen,Mars-R Gris,KP04GR575,30x60,Gris,No esmaltado / rectificado,Comercial alto,https://www.decorceramica.com/mars-r-30-60-gris-kp04gr575-1/p,Definido
+2,Decorceramica,Pamesa,K-Koncept Argento,PC04GN748,60x60,Argento,Mate / rectificado / 9.5 mm,Comercial alto,https://www.decorceramica.com/k-koncept-60-60-argento-pc04gn748-1/p,Definido
+3,Decorceramica,Klipen,Sandstone ADZ Blanco,KP04BL1070,60x60,Blanco,Esmaltado / antideslizante R11,Comercial bajo (segun ficha),https://www.decorceramica.com/sandstone-adz-60-60-blanco-kp04bl1070-1/p,Definido
+4,Ceramica Italia,,Ceranatto Picasso,231038,58.4x118.4,Blanco con tonos grises y vetas,Brillante / rectificado,Comercial e institucional,https://www.ceramicaitalia.com/picasso-584x1184-rectificado-231038/p,Definido
+5,Ceramica Italia,,Ceranatto Acasta,231059,58.4x118.4,Gris,Rectificado (brillo no indicado),Alto,https://www.ceramicaitalia.com/acasta-58-4x118-4/p,Definido
+6,Ceramica Italia,,Ceranatto Cerchio,231131,58.4x118.4,Terra,Dual con Natural Touch / rectificado,Por confirmar,https://www.ceramicaitalia.com/piso-ceramica-cerchio-231131/p,Trafico por confirmar
+7,Ceramica Italia,,Catania,203045,60x60,Gris,Por confirmar,Por confirmar,https://www.ceramicaitalia.com/-catania-60x60203045/p,Acabado y trafico por confirmar
+8,Ceramica Italia,,Colonatta,231022,60x60,Beige,Brillante / R 1A,Por confirmar,https://www.ceramicaitalia.com/-colonatta-60x60231022/p,Trafico por confirmar
+CV,Decorceramica,Pamesa,K-Koncept Argento,PC04GN748,60x60,Argento,Mate / rectificado / 9.5 mm,Comercial alto,https://www.decorceramica.com/k-koncept-60-60-argento-pc04gn748-1/p,Piso del local Cruz Verde
